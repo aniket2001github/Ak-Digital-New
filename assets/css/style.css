@@ -1748,7 +1748,7 @@ body::-webkit-scrollbar-thumb {
 .counter-section-wrap {
   padding: 80px 0 33px;
   border-radius: 20px;
-  margin-top: -120px;
+  margin-top: 80px;
 }
 
 .counter-item-box-wrap {

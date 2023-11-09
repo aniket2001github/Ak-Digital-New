@@ -783,6 +783,7 @@ body::-webkit-scrollbar-thumb {
 .mainmenu li.has-child-menu:hover a::before {
   -webkit-transform: translateY(-50%) rotate(180deg);
           transform: translateY(-50%) rotate(180deg);
+          color: #F44730;
 }
 
 .mainmenu li.has-child-menu ul li.has-child-menu > a::before {
